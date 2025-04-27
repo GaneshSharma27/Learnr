@@ -74,3 +74,38 @@ body {
     max-width: 500px;
   }
   
+  /* ----------- Mobile Responsive ----------- */
+  @media (max-width: 768px) {
+    .landing-main {
+      flex-direction: column;
+      padding: 2rem;
+      text-align: center;
+    }
+  
+    .left {
+      margin-bottom: 2rem;
+    }
+  
+    .right {
+      text-align: center;
+    }
+  
+    .heading {
+      font-size: 2rem;
+    }
+  
+    .subheading {
+      font-size: 1rem;
+    }
+  
+    .landing-img {
+      width: 80%;
+      max-width: 300px;
+    }
+  
+    header {
+      flex-direction: column;
+      gap: 10px;
+    }
+  }
+  
