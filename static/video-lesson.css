@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #6495ED;
+  }
+  
+  .nav-buttons button {
+    background-color: #749BFF;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .video-container {
+    margin: 40px auto;
+    width: 80%;
+    height: 400px;
+    background-color: #eee;
+    border-radius: 20px;
+  }
+  
+  .lesson-title {
+    margin: 20px 40px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+  }
+  
+  .navigation-buttons button {
+    background-color: #749BFF;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+  }
+  
