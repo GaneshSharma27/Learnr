@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5%;
+}
+
+.text-content h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.text-content p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #6C63FF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+}

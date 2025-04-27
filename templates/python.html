@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learnr - Python Course</title>
+  <link rel="stylesheet" href="/static/python.css">
+</head>
+<body>
+  <header>
+    <h1 class="logo">Learnr</h1>
+    <div class="auth-buttons">
+      <button class="btn">Sign up</button>
+      <button class="btn">Login</button>
+    </div>
+  </header>
+
+  <main>
+    <h2>Python</h2>
+    <section class="instructors">
+      <h3>Instructors</h3>
+      <div class="avatars">
+        <!-- Avatar images as circles -->
+        {% for instructor in instructors %}
+          <img src="{{ instructor.avatar }}" alt="{{ instructor.name }}" class="avatar">
+        {% endfor %}
+      </div>
+      <p class="instructor-names">
+        {{ instructor_names }}
+      </p>
+    </section>
+
+    <section class="content-type">
+      <h3>Content type</h3>
+      <div class="icons">
+        <span>🎥 Videos</span>
+        <span>📄 Blogs</span>
+        <span>📃 Papers</span>
+        <span>🔍 Researches</span>
+      </div>
+    </section>
+
+    <section class="course-structure">
+      <h3>Course structure</h3>
+      <div class="course-list">
+        {% for item in course_structure %}
+        <div class="course-item">
+          <div>
+            <strong>{{ item.title }}</strong><br>
+            {{ item.description }}
+          </div>
+          <a href="/courses/python/video">
+            <button class="play-buttnn">
+                ▶️
+            </button>
+        </a>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,111 @@
+id,question,option1,option2,option3,option4,correct_option
+1,What is Machine Learning primarily about?,Programming robots,Manually coding all logic,Learning from data,Storing big data,3
+2,Which is **not** a type of Machine Learning?,Supervised,Reinforcement,Recursive,Unsupervised,3
+3,What is a common application of ML?,Drawing images,Predicting stock prices,Sending emails,Making coffee,2
+4,What concept is essential for understanding vectors and matrices in ML?,Trigonometry,Linear Algebra,Number Theory,Graph Theory,2
+5,Probability helps ML models to:,Cook food,Draw shapes,Handle uncertainty,Replace algorithms,3
+6,What is the purpose of **data cleaning**?,Make data pretty,Remove irrelevant data,Introduce noise,Randomize records,2
+7,Feature scaling is mainly used to:,Change units,Equalize feature influence,Delete features,Increase data size,2
+8,One common technique to handle missing data is:,Drop entire dataset,Guess randomly,Use imputation,Repeat last row,3
+9,Linear Regression is used for:,Classification,Clustering,Regression,Segmentation,3
+10,Logistic Regression outputs:,Continuous values,Clusters,Probabilities,Distances,3
+11,Decision Trees use what kind of structure?,Linear list,Graph,Tree,Loop,3
+12,SVM tries to:,Join all data points,Create regression lines,Maximize margin,Minimize entropy,3
+13,K-Means is a type of:,Supervised learning,Unsupervised learning,Reinforcement learning,Semi-supervised learning,2
+14,PCA is mainly used for:,Feature engineering,Dimensionality reduction,Scaling data,Regression,2
+15,Which clustering method builds a tree of clusters?,K-Means,DBSCAN,Hierarchical clustering,Random forest,3
+16,Neural networks are inspired by:,Decision Trees,Human brain,Genetic codes,Logic gates,2
+17,CNNs are primarily used for:,Audio classification,Image recognition,NLP tasks,Time series analysis,2
+18,RNNs are suitable for:,Image data,Time series or sequences,Clustering,Classification only,2
+19,NLP focuses on:,Programming languages,Natural languages,Image filtering,Noise removal,2
+20,Reinforcement Learning involves:,Labelled data,Unlabelled data,Reward-based learning,Neural signal tracking,3
+21,What is the primary purpose of Python?,Web development,Machine Learning,General-purpose programming,Game design,3
+22,Which data structure is used to store key-value pairs in Python?,List,Tuple,Set,Dictionary,4
+23,Which of the following best defines Object-Oriented Programming?,Code written without classes,Programming with functions only,Programming using objects and classes,Procedural programming,3
+24,What is the main concept behind Deep Learning?,Rule-based logic,Symbolic AI,Neural Networks,Statistical analysis,3
+25,What are GANs used for?,Image classification,Data cleaning,Data generation,Feature scaling,3
+26,Transformers are primarily used in which domain?,Computer Vision,Natural Language Processing,Database Management,Operating Systems,2
+27,What is the main goal of cybersecurity?,Building websites,Securing systems and data,Developing software,Writing blogs,2
+28,What does cryptography mainly deal with?,Programming logic,Database optimization,Securing information through encryption,Network speed,3
+29,What is the purpose of Exploratory Data Analysis (EDA)?,Building models,Optimizing code,Understanding data patterns and summaries,Running servers,3
+30,What is the main benefit of data visualization?,Writing efficient code,Encrypting data,Understanding data through graphical representation,Learning syntax,3
+31,Which keyword is used to define a class in Java?,define,class,object,new,2
+32,What is a major feature of Java's OOP?,Pointers,Object-oriented approach,Memory management,Assembly-level code,2
+33,Which Java structure is used to implement dynamic arrays?,Array,LinkedList,ArrayList,Vector,3
+34,Which keyword in Java is used to start a thread?,begin,start,new,run,4
+35,What does Java Stream API mainly operate on?,Databases,Collections,Arrays,Files,2
+36,Which Java version introduced Functional Programming?,Java 6,Java 7,Java 8,Java 11,3
+37,Spring Boot is mainly used for?,Desktop apps,Web development,Mobile apps,Game development,2
+38,What is the purpose of JavaFX?,Data analysis,Console utilities,Graphical user interfaces,Networking,3
+39,Which of these is **not** a Java data structure?,HashMap,TreeSet,QueueList,LinkedHashMap,3
+40,In Java multithreading, which method is used to begin execution?,start(),run(),begin(),launch(),1
+41,What is the correct way to define a variable in Python?,int x = 10,x = 10,10 = x,var x = 10,2
+42,Which data type is used to store a sequence of characters in Python?,int,str,bool,list,2
+43,Which loop structure is used to iterate a known number of times?,while loop,do-while loop,for loop,switch,3
+44,What keyword is used to define a function in Python?,func,define,def,method,3
+45,Which method is used to open a file in Python?,open(),file(),readfile(),start(),1
+46,What is the first method that gets called in a Python class?,__main__,init(),__init__(),class(),3
+47,Which keyword handles exceptions in Python?,try,except,handle,error,2
+48,Which of these is a mutable data structure in Python?,tuple,int,string,list,4
+49,Which keyword is used to create a generator in Python?,yield,return,generate,lambda,1
+50,What module is used for regular expressions in Python?,re,regex,pattern,str,1
+51,What does the MERN stack stand for?,MongoDB Express React Node,MySQL Express React Node,MongoDB Ember React Node,MySQL Ember React Node,1
+52,Which database is used in the MERN stack?,MySQL,PostgreSQL,MongoDB,SQLite,3
+53,Which library is used for building user interfaces in the MERN stack?,Vue,Angular,React,Ember,3
+54,Which component of MERN handles backend server logic?,MongoDB,React,Node.js,Express.js,4
+55,Which of these is used to create REST APIs in MERN stack?,React,Express.js,MongoDB,Redux,2
+56,Which hook is used in React for side effects?,useContext,useEffect,useMemo,useRef,2
+57,How do you create a route in Express.js?,app.route(),app.get(),router.route(),router.link(),2
+58,Which package is used for JWT authentication in Node.js?,jsonwebtoken,jwt-auth,jwt-node,jwt-express,1
+59,Where would you implement middleware in Express?,After routing,Before database call,Before routing,Inside JSX,3
+60,What command is used to start a React app?,npx create-react-app npm start,npm install react,npm start react,npx react-app run,1
+61,What does UX stand for?,User Xperience,User Experience,Universal Experience,User Exchange,2
+62,Which of the following is a core principle of UX design?,Aesthetic First,Complexity over Simplicity,User-Centered Design,Backend Integration,3
+63,What is the main goal of user research in UX?,To test code quality,To design visuals,To understand user needs,To reduce costs,3
+64,What is wireframing in UX design?,Creating backend logic,Designing the final UI,Creating a skeleton layout,Adding animations,3
+65,Which tool is typically used for prototyping?,MongoDB,Adobe XD,React,Express.js,2
+66,What does usability testing aim to evaluate?,Color scheme effectiveness,System security,How easy a product is to use,Data storage performance,3
+67,What is accessibility in UX about?,User payment options,Search Engine Optimization,Designing for all users including disabled,Content writing,3
+68,How does UI differ from UX?,UI is about code,UX is about SEO,UI is interface design while UX is experience design,They are the same,3
+69,Which phase is NOT part of Design Thinking?,Empathize,Define,Implement,Prototype,3
+70,What does a user journey map visualize?,App source code,User emotions and steps during interaction,Server setup,Database schema,2
+71,What is Power BI primarily used for?,Web development,Image editing,Data analysis and visualization,Network security,3
+72,Which feature allows you to transform and clean data in Power BI?,Power Apps,Power Query,DAX,Excel Import,2
+73,What is DAX in Power BI?,A design tool,A data modeling language,A deployment service,A chart type,2
+74,Which of the following is a visualization element in Power BI?,Node.js,Page Builder,Card,Compiler,3
+75,What is the purpose of Row-Level Security (RLS) in Power BI?,To limit bandwidth,To secure login credentials,To restrict data access for users,To back up data,3
+76,What does Power BI Service allow users to do?,Write C++ code,Design animations,Collaborate and share reports,Create machine learning models,3
+77,Which component is used to bring in real-time data into Power BI?,Static Reports,PowerPoint Charts,Streaming Datasets,Import Wizard,3
+78,Paginated reports in Power BI are best suited for?,Infographics,One-page dashboards,Printable and detailed layouts,Animated charts,3
+79,Which feature compares Power BI with Tableau?,Data Cleanup,AI Insights,Power BI vs Tableau,Power Automate,3
+80,What is the role of AI Insights in Power BI?,Code refactoring,Adding themes,Generating advanced analytics and predictions,Creating database schema,3
+81,What is Tableau mainly used for?,Machine learning,Data visualization,Video editing,App development,2
+82,Which Tableau component helps in preparing and cleaning data?,Data Studio,Tableau Query Builder,Tableau Prep,Power Query,3
+83,What is a dashboard in Tableau?,A command-line tool,A single chart,A combination of visualizations,A settings panel,3
+84,What is Data Blending used for in Tableau?,Changing fonts,Combining data from multiple sources,Filtering large datasets,Creating charts,2
+85,What is the purpose of Calculated Fields in Tableau?,Generating passwords,Enhancing visuals,Performing custom calculations,Importing files,3
+86,Which chart is suitable for geographical data in Tableau?,Pie chart,Bar chart,Map chart,Scatter plot,3
+87,What is Tableau Online?,A new visual chart type,Tableau’s cloud-based version,An offline tool,A mobile app for design,2
+88,What is the role of Filters in Tableau?,Add animations,Remove unused files,Restrict displayed data,Import Excel data,3
+89,What is the purpose of Performance Optimization in Tableau?,Improve security,Reduce loading time and enhance performance,Add new data sources,Create filters,2
+90,What do Tableau Extensions and APIs allow?,Installing themes,Developing web apps,Extending Tableau's functionality and integration,Using Excel macros,3
+91,Which of the following is a key focus of Cooking 101?,Advanced grilling,Kitchen plumbing,Cooking basics,Food photography,3
+92,What is essential for safe food handling?,Not washing hands,Wearing fancy aprons,Following safety and hygiene practices,Overcooking food,3
+93,Which knife cut is commonly used for vegetables?,Flambé,Julienne,Poach,Grill,2
+94,What is a must-have tool for baking?,Chef’s knife,Blender,Measuring cups,Oven mitts,3
+95,Which cuisine is known for dishes like pasta and risotto?,Indian,Chinese,Italian,Thai,3
+96,What type of meal plan helps prepare meals ahead of time?,Spontaneous cooking,Dine-out plan,Meal prep,Weekly ordering,3
+97,Which of these recipes is vegetarian?,Chicken curry,Beef stew,Stir-fried tofu,Grilled salmon,3
+98,Which method is typically used in bread making?,Deep frying,Blending,Proofing,Kneeling,3
+99,What’s a good practice while grilling?,Using cold grill,Overcrowding food,Preheating the grill,Boiling meat first,3
+100,Which of the following is a common feature of low-budget meals?,Expensive ingredients,Quick and affordable recipes,Long preparation time,Exotic spices,2
+101,What does music theory primarily teach?,How to sell music,Reading and writing music,Using recording software,Dancing styles,2
+102,Which instrument is commonly associated with chords and melodies?,Drums,Piano,Violin,Trumpet,2
+103,Which platform offers structured lessons for learning guitar?,MusicFreaks,Justin Guitar,Piano Dreamers,SoundCloud,2
+104,What is a key focus of vocal training?,Composing symphonies,Vocal warm-ups and techniques,Learning instruments,Editing audio,2
+105,Which genre is known for improvisation and swing rhythms?,Pop,Jazz,Rock,Classical,2
+106,Which software is often used for music production?,Excel,Ableton Live,Zoom,Paint,2
+107,What is a DAW in music?,Digital Audio Workshop,Digital Audio Workstation,Dynamic Audio Writer,Downloadable Audio Wave,2
+108,Which career option is part of the music industry?,Chef,Dentist,Music Producer,Civil Engineer,3
+109,Which course focuses on mental health and sound?,Music Business,Sound Engineering,Music Therapy,Advanced Theory,3
+110,Which music genre is characterized by orchestras and structured forms?,Jazz,Hip Hop,Classical,EDM,3

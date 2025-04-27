@@ -1,0 +1,322 @@
+topic,sub_topic,type,title,link,level
+Machine Learning,Introduction,Video,What is Machine Learning?,https://youtu.be/example1,Beginner
+Machine Learning,Types of ML,Blog,Understanding Types of ML,https://example.com/ml-types,Beginner
+Machine Learning,Applications of ML,Blog,Real-World Applications of ML,https://example.com/ml-applications,Beginner
+Machine Learning,Linear Algebra Basics,Video,Linear Algebra for ML,https://youtu.be/example2,Beginner
+Machine Learning,Probability Basics,Blog,Probability for Machine Learning,https://example.com/probability-basics,Intermediate
+Machine Learning,Data Cleaning,Video,Data Cleaning in Python,https://youtu.be/example3,Beginner
+Machine Learning,Feature Scaling,Blog,Scaling Features in ML,https://example.com/feature-scaling,Intermediate
+Machine Learning,Handling Missing Data,Blog,Techniques for Missing Data,https://example.com/missing-data,Intermediate
+Machine Learning,Linear Regression,Video,Linear Regression Explained,https://youtu.be/example4,Beginner
+Machine Learning,Logistic Regression,Blog,Logistic Regression in ML,https://example.com/logistic-regression,Beginner
+Machine Learning,Decision Trees,Video,Introduction to Decision Trees,https://youtu.be/example5,Intermediate
+Machine Learning,Support Vector Machines (SVM),Paper,Support Vector Machines (SVM),https://research.example.com/svm,Advanced
+Machine Learning,K-Means Clustering,Video,K-Means Clustering Explained,https://youtu.be/example6,Beginner
+Machine Learning,PCA,Blog,Understanding PCA in ML,https://example.com/pca,Intermediate
+Machine Learning,Hierarchical Clustering,Video,Hierarchical Clustering in ML,https://youtu.be/example7,Intermediate
+Machine Learning,Neural Networks Basics,Video,Introduction to Neural Networks,https://youtu.be/example8,Beginner
+Machine Learning,CNN,Blog,What are CNNs?,https://example.com/cnn,Intermediate
+Machine Learning,RNN,Paper,Understanding RNNs,https://research.example.com/rnn,Advanced
+Machine Learning,NLP Basics,Video,Natural Language Processing,https://youtu.be/example9,Beginner
+Machine Learning,Computer Vision Basics,Blog,Intro to Computer Vision,https://example.com/computer-vision,Intermediate
+Machine Learning,Reinforcement Learning,Paper,Reinforcement Learning Overview,https://research.example.com/rl,Advanced
+Python Programming,Introduction,Video,Python for Beginners,https://youtu.be/example10,Beginner
+Python Programming,Data Structures,Blog,Understanding Python Data Structures,https://example.com/python-ds,Beginner
+Python Programming,OOP in Python,Blog,Object-Oriented Programming in Python,https://example.com/oop-python,Intermediate
+Deep Learning,Introduction,Video,Deep Learning Explained,https://youtu.be/example11,Beginner
+Deep Learning,GANs,Paper,Generative Adversarial Networks,https://research.example.com/gans,Advanced
+Deep Learning,Transformers,Blog,Understanding Transformers,https://example.com/transformers,Advanced
+Cybersecurity,Introduction,Video,Cybersecurity Basics,https://youtu.be/example12,Beginner
+Cybersecurity,Cryptography,Blog,Introduction to Cryptography,https://example.com/cryptography,Intermediate
+Data Science,Exploratory Data Analysis,Video,EDA with Python,https://youtu.be/example13,Beginner
+Data Science,Data Visualization,Blog,Data Visualization Techniques,https://example.com/data-viz,Intermediate
+Java,Introduction,Video,Java Tutorial for Beginners - Full Course,https://www.youtube.com/watch?v=eIrMbAQSU34,Beginner
+Java,Introduction,Blog,Java Basics Explained for Beginners,https://www.javatpoint.com/java-tutorial,Beginner
+Java,Introduction,Video,Learn Java in 14 Minutes (seriously),https://www.youtube.com/watch?v=RRubcjpTkks,Beginner
+Java,Object-Oriented Programming (OOP),Video,Object-Oriented Programming Concepts in Java,https://www.youtube.com/watch?v=UmnCZ7-9yDY,Beginner
+Java,Object-Oriented Programming (OOP),Blog,Mastering OOP Concepts in Java,https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/,Intermediate
+Java,Object-Oriented Programming (OOP),Video,Java OOP Concepts Simplified,https://www.youtube.com/watch?v=Uo8u2XQUpk8,Intermediate
+Java,Data Structures,Video,Java Data Structures Full Course,https://www.youtube.com/watch?v=bum_19loj9A,Intermediate
+Java,Data Structures,Blog,Data Structures in Java - GeeksforGeeks,https://www.geeksforgeeks.org/data-structures/,Intermediate
+Java,Data Structures,Research Paper,Efficient Data Structures in Java,https://arxiv.org/pdf/1502.06182.pdf,Advanced
+Java,Multithreading,Video,Java Multithreading Tutorial,https://www.youtube.com/watch?v=mtO6SYp7k4I,Intermediate
+Java,Multithreading,Blog,Understanding Java Multithreading,https://www.journaldev.com/1037/java-thread-example,Intermediate
+Java,Multithreading,Research Paper,Concurrency Models in Java,https://pdfs.semanticscholar.org/04d1/3e75ad1ed7e9a60f7ce24954915a43a44b90.pdf,Advanced
+Java,Streams & Collections,Video,Java Streams & Collections Tutorial,https://www.youtube.com/watch?v=t1-YZ6bF-g0,Intermediate
+Java,Streams & Collections,Blog,Java Streams Guide,https://www.baeldung.com/java-8-streams,Intermediate
+Java,Streams & Collections,Research Paper,Efficient Stream Processing in Java,https://www.researchgate.net/publication/323589019_Java_Stream_API_A_Comparative_Study,Advanced
+Java,Java 8 & Functional Programming,Video,Java 8 New Features,https://www.youtube.com/watch?v=1OpAgZvYXLQ,Intermediate
+Java,Java 8 & Functional Programming,Blog,Functional Programming in Java 8,https://www.baeldung.com/java-functional-programming,Intermediate
+Java,Java 8 & Functional Programming,Research Paper,Functional Programming and Java 8,https://pdfs.semanticscholar.org/f71e/6228fca39b61bf4b77dae1f21a196ee83fed.pdf,Advanced
+Java,Spring Boot,Video,Spring Boot Tutorial for Beginners,https://www.youtube.com/watch?v=9SGDpanrc8U,Intermediate
+Java,Spring Boot,Blog,Getting Started with Spring Boot,https://spring.io/guides/gs/spring-boot/,Intermediate
+Java,Spring Boot,Research Paper,Microservices with Spring Boot,https://arxiv.org/pdf/1910.09352.pdf,Advanced
+Java,Advanced Java Concepts,Video,Advanced Java Full Course,https://www.youtube.com/watch?v=09CRkqIz2-Y,Advanced
+Java,Advanced Java Concepts,Blog,Advanced Java Programming Guide,https://www.geeksforgeeks.org/advanced-java/,Advanced
+Java,Advanced Java Concepts,Research Paper,Performance Optimization in Java,https://pdfs.semanticscholar.org/92b3/3c31779042f2f1c4afb77540182c212343f5.pdf,Advanced
+Java,JavaFX,Video,JavaFX Crash Course,https://www.youtube.com/watch?v=9XJicRt_FaI,Intermediate
+Java,JavaFX,Blog,Building GUI Applications with JavaFX,https://openjfx.io/openjfx-docs/,Intermediate
+Java,JavaFX,Research Paper,Rich Client Development with JavaFX,https://pdfs.semanticscholar.org/6b3b/41726b2dfcae6ea8657fca59093ec9bf5dc0.pdf,Advanced
+Python,Introduction,Video,Python Tutorial for Beginners - Full Course [YouTube],https://www.youtube.com/watch?v=_uQrJ0TkZlc,Beginner
+Python,Introduction,Blog,Learn Python - FreeCodeCamp Blog,https://www.freecodecamp.org/news/learn-python-free-python-course/,Beginner
+Python,Introduction,Video,Learn Python in 1 Hour [YouTube],https://www.youtube.com/watch?v=kqtD5dpn9C8,Beginner
+Python,Variables and Data Types,Video,Python Data Types Explained [YouTube],https://www.youtube.com/watch?v=khKv-8q7YmY,Beginner
+Python,Variables and Data Types,Blog,Python Data Types Simplified [GeeksForGeeks],https://www.geeksforgeeks.org/python-data-types/,Beginner
+Python,Control Flow (Loops & Conditions),Video,Python Loops and If Statements [YouTube],https://www.youtube.com/watch?v=6iF8Xb7Z3wQ,Beginner
+Python,Control Flow (Loops & Conditions),Blog,Python Loops Explained [Programiz],https://www.programiz.com/python-programming/loop,Beginner
+Python,Functions and Modules,Video,Python Functions Explained [YouTube],https://www.youtube.com/watch?v=9Os0o3wzS_I,Beginner
+Python,Functions and Modules,Blog,Python Functions and Modules [RealPython],https://realpython.com/defining-your-own-python-function/,Beginner
+Python,Functions and Modules,Blog,Understanding Python Modules [GeeksForGeeks],https://www.geeksforgeeks.org/python-modules/,Beginner
+Python,File Handling,Video,Python File Handling Tutorial [YouTube],https://www.youtube.com/watch?v=Uh2ebFW8OYM,Intermediate
+Python,File Handling,Blog,File Handling in Python [GeeksForGeeks],https://www.geeksforgeeks.org/file-handling-python/,Intermediate
+Python,OOP (Object Oriented Programming),Video,Python OOP Tutorial [YouTube],https://www.youtube.com/watch?v=JeznW_7DlB0,Intermediate
+Python,OOP (Object Oriented Programming),Blog,Python Classes and Objects [Programiz],https://www.programiz.com/python-programming/class,Intermediate
+Python,OOP (Object Oriented Programming),Blog,OOP Concepts in Python [GeeksForGeeks],https://www.geeksforgeeks.org/python-oops-concepts/,Intermediate
+Python,Exception Handling,Video,Python Error Handling Tutorial [YouTube],https://www.youtube.com/watch?v=NIWwJbo-9_8,Intermediate
+Python,Exception Handling,Blog,Python Try Except [RealPython],https://realpython.com/python-exceptions/,Intermediate
+Python,Data Structures,Video,Python Data Structures Full Course [YouTube],https://www.youtube.com/watch?v=WGJJIrtnfpk,Intermediate
+Python,Data Structures,Blog,Python Data Structures Guide [GeeksForGeeks],https://www.geeksforgeeks.org/python-data-structures/,Intermediate
+Python,Data Structures,Blog,Collections in Python [Programiz],https://www.programiz.com/python-programming/collections,Intermediate
+Python,Decorators and Generators,Video,Python Decorators Tutorial [YouTube],https://www.youtube.com/watch?v=FsAPt_9Bf3U,Advanced
+Python,Decorators and Generators,Blog,Python Generators Explained [RealPython],https://realpython.com/introduction-to-python-generators/,Advanced
+Python,Decorators and Generators,Blog,Python Decorators Made Simple [GeeksForGeeks],https://www.geeksforgeeks.org/decorators-in-python/,Advanced
+Python,Regular Expressions,Video,Python Regex Tutorial [YouTube],https://www.youtube.com/watch?v=K8L6KVGG-7o,Intermediate
+Python,Regular Expressions,Blog,Python Regular Expressions [Programiz],https://www.programiz.com/python-programming/regex,Intermediate
+Python,Web Development (Flask),Video,Flask Tutorial for Beginners [YouTube],https://www.youtube.com/watch?v=Qr4QMBUPxWo,Intermediate
+Python,Web Development (Flask),Blog,Flask Tutorial [RealPython],https://realpython.com/tutorials/flask/,Intermediate
+Python,Web Development (Django),Video,Django Tutorial for Beginners [YouTube],https://www.youtube.com/watch?v=F5mRW0jo-U4,Intermediate
+Python,Web Development (Django),Blog,Getting Started with Django [Official],https://docs.djangoproject.com/en/4.1/intro/tutorial01/,Intermediate
+Python,Web Development (Django),Blog,Django Basics [RealPython],https://realpython.com/tutorials/django/,Intermediate
+Python,APIs with FastAPI,Video,FastAPI Crash Course [YouTube],https://www.youtube.com/watch?v=7t2alSnE2-I,Intermediate
+Python,APIs with FastAPI,Blog,FastAPI Official Docs,https://fastapi.tiangolo.com/,Intermediate
+Python,Machine Learning Basics,Video,Machine Learning with Python [YouTube],https://www.youtube.com/watch?v=7eh4d6sabA0,Intermediate
+Python,Machine Learning Basics,Blog,Machine Learning with Python [Analytics Vidhya],https://www.analyticsvidhya.com/blog/2021/05/complete-guide-to-learn-machine-learning-using-python/,Intermediate
+Python,Data Science with Python,Video,Data Science Full Course [YouTube],https://www.youtube.com/watch?v=ua-CiDNNj30,Intermediate
+Python,Data Science with Python,Blog,Data Science with Python [Kaggle Course],https://www.kaggle.com/learn/python,Intermediate
+Python,AI & Deep Learning,Video,Deep Learning with Python [YouTube],https://www.youtube.com/watch?v=aircAruvnKk,Advanced
+Python,AI & Deep Learning,Blog,Deep Learning with Python Book,https://www.manning.com/books/deep-learning-with-python,Advanced
+Python,AI & Deep Learning,Research Paper,Neural Networks in Python [arXiv],https://arxiv.org/pdf/1804.02763.pdf,Advanced
+Python,Testing and Debugging,Video,Python Unit Testing Tutorial [YouTube],https://www.youtube.com/watch?v=6tNS--WetLI,Intermediate
+Python,Testing and Debugging,Blog,Python Testing Guide [RealPython],https://realpython.com/python-testing/,Intermediate
+MERN Stack,Introduction,Video,MERN Stack Full Course for Beginners [YouTube],https://www.youtube.com/watch?v=7CqJlxBYj-M,Beginner
+MERN Stack,Introduction,Blog,Introduction to MERN Stack [Simplilearn],https://www.simplilearn.com/tutorials/mongodb-tutorial/what-is-mern-stack,Beginner
+MERN Stack,Introduction,Blog,What is MERN Stack? [GeeksForGeeks],https://www.geeksforgeeks.org/mern-stack/,Beginner
+MongoDB,Database Basics,Video,MongoDB Crash Course [YouTube],https://www.youtube.com/watch?v=ofme2o29ngU,Beginner
+MongoDB,Database Basics,Blog,MongoDB Official Documentation,https://www.mongodb.com/docs/manual/,Beginner
+MongoDB,CRUD Operations,Video,MongoDB CRUD Operations [YouTube],https://www.youtube.com/watch?v=3f5Q9wDePzY,Intermediate
+MongoDB,CRUD Operations,Blog,MongoDB CRUD Tutorial [MongoDB University],https://www.mongodb.com/docs/manual/crud/,Intermediate
+Express.js,Introduction,Video,Express.js Crash Course [YouTube],https://www.youtube.com/watch?v=L72fhGm1tfE,Beginner
+Express.js,Introduction,Blog,Express.js Tutorial [GeeksForGeeks],https://www.geeksforgeeks.org/express-js/,Beginner
+Express.js,Routing and Middleware,Video,Express Router Tutorial [YouTube],https://www.youtube.com/watch?v=c9ij4aZ91z8,Intermediate
+Express.js,Routing and Middleware,Blog,Understanding Express.js Middleware [Medium],https://medium.com/@agoiabeladeyemi/understanding-express-js-middleware-efabf45a4b0b,Intermediate
+Express.js,Authentication,Video,JWT Authentication with Express [YouTube],https://www.youtube.com/watch?v=7nafaH9SddU,Intermediate
+React.js,Introduction,Video,React JS Full Course for Beginners [YouTube],https://www.youtube.com/watch?v=bMknfKXIFA8,Beginner
+React.js,Introduction,Blog,React Official Docs,https://reactjs.org/docs/getting-started.html,Beginner
+React.js,Components and Props,Video,React Components Tutorial [YouTube],https://www.youtube.com/watch?v=CDtPMRz3nYY,Beginner
+React.js,Components and Props,Blog,Understanding Components and Props [React Docs],https://react.dev/learn/your-first-component,Beginner
+React.js,State and Hooks,Video,React Hooks Tutorial [YouTube],https://www.youtube.com/watch?v=f687hBjwFcM,Intermediate
+React.js,State and Hooks,Blog,Using State and Effect Hooks [React Docs],https://react.dev/learn/state-a-components-memory,Intermediate
+React.js,Routing,Video,React Router Tutorial [YouTube],https://www.youtube.com/watch?v=Law7wfdg_ls,Intermediate
+React.js,Routing,Blog,React Router Docs,https://reactrouter.com/en/main,Intermediate
+Node.js,Introduction,Video,Node.js Crash Course [YouTube],https://www.youtube.com/watch?v=fBNz5xF-Kx4,Beginner
+Node.js,Introduction,Blog,Node.js Tutorial [GeeksForGeeks],https://www.geeksforgeeks.org/node-js/,Beginner
+Node.js,File System Module,Video,Node.js File System Module [YouTube],https://www.youtube.com/watch?v=U57kU311-q8,Intermediate
+Node.js,File System Module,Blog,Node.js File System [W3Schools],https://www.w3schools.com/nodejs/nodejs_filesystem.asp,Intermediate
+Node.js,API Building,Video,Build a REST API with Node.js [YouTube],https://www.youtube.com/watch?v=pKd0Rpw7O48,Intermediate
+MERN Stack,Full Project,Video,Build a Complete MERN Stack App [YouTube],https://www.youtube.com/watch?v=ktjafK4SgWM,Intermediate
+MERN Stack,Full Project,Video,MERN Stack E-Commerce App [YouTube],https://www.youtube.com/watch?v=AkXVTPWxoq4,Advanced
+MERN Stack,Authentication,Video,MERN Stack Authentication Tutorial [YouTube],https://www.youtube.com/watch?v=7CqJlxBYj-M,Intermediate
+MERN Stack,Authentication,Blog,JWT Authentication in MERN Stack [Medium],https://medium.com/@rossbulat/jwt-authentication-in-the-mern-stack-cb2ef84d1c24,Intermediate
+MERN Stack,Deployment,Video,How to Deploy MERN App on Render [YouTube],https://www.youtube.com/watch?v=PvVD06v-v0I,Intermediate
+MERN Stack,Deployment,Blog,Deploy MERN App on Heroku [FreeCodeCamp],https://www.freecodecamp.org/news/deploy-a-mern-app/,Intermediate
+MERN Stack,Performance Optimization,Blog,Performance Optimization in MERN [Medium],https://medium.com/@appwrk/mern-stack-app-performance-optimization-5fb61896f8a4,Advanced
+MongoDB,Advanced Aggregation,Video,MongoDB Aggregation Tutorial [YouTube],https://www.youtube.com/watch?v=Z8Ugdz3spWA,Advanced
+MongoDB,Advanced Aggregation,Blog,MongoDB Aggregation Pipeline [MongoDB Docs],https://www.mongodb.com/docs/manual/aggregation/,Advanced
+Express.js,Advanced Routing,Video,Express.js Advanced Routing [YouTube],https://www.youtube.com/watch?v=Z1ktxiqyiLA,Advanced
+React.js,Redux State Management,Video,React Redux Crash Course [YouTube],https://www.youtube.com/watch?v=CVpUuw9XSjY,Advanced
+React.js,Redux State Management,Blog,Redux Official Docs,https://redux.js.org/introduction/getting-started,Advanced
+React.js,Context API,Video,React Context API Tutorial [YouTube],https://www.youtube.com/watch?v=5LrDIWkK_Bc,Advanced
+Node.js,Streams and Buffers,Video,Node.js Streams Tutorial [YouTube],https://www.youtube.com/watch?v=UCeVMnS8EeY,Advanced
+Node.js,Streams and Buffers,Blog,Understanding Node.js Streams [RisingStack],https://blog.risingstack.com/node-js-streams-everything-you-need-to-know/,Advanced
+UX Design,Introduction,Video,What is UX Design? [YouTube],https://www.youtube.com/watch?v=Ovj4hFxko7c,Beginner
+UX Design,Introduction,Blog,Introduction to UX Design [Interaction Design Foundation],https://www.interaction-design.org/literature/topics/ux-design,Beginner
+UX Design,Principles of UX,Video,Principles of UX Design [YouTube],https://www.youtube.com/watch?v=Vj4J3jXfE1o,Beginner
+UX Design,Principles of UX,Blog,7 Principles of UX Design [Adobe Blog],https://xd.adobe.com/ideas/process/ui-design/ux-design-principles/,Beginner
+UX Design,User Research,Video,User Research in UX Design [YouTube],https://www.youtube.com/watch?v=sL5iQDxRjGI,Intermediate
+UX Design,User Research,Blog,User Research Basics [NNG],https://www.nngroup.com/articles/user-research-methods/,Intermediate
+UX Design,Wireframing,Video,How to Wireframe [YouTube],https://www.youtube.com/watch?v=3pUdV5dHLT0,Beginner
+UX Design,Wireframing,Blog,Complete Guide to Wireframing [CareerFoundry],https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/,Beginner
+UX Design,Prototyping,Video,How to Prototype: UX Prototyping [YouTube],https://www.youtube.com/watch?v=Jao3s_CwdRU,Intermediate
+UX Design,Prototyping,Blog,Prototyping in UX [Adobe XD Ideas],https://xd.adobe.com/ideas/process/prototyping/what-is-a-prototype-in-ux-design/,Intermediate
+UX Design,User Testing,Video,User Testing Explained [YouTube],https://www.youtube.com/watch?v=WhJQEgJCEhE,Intermediate
+UX Design,User Testing,Blog,What is Usability Testing? [NNG],https://www.nngroup.com/articles/usability-testing-101/,Intermediate
+UX Design,Accessibility,Video,Accessibility in UX Design [YouTube],https://www.youtube.com/watch?v=OqQkP4V1B9c,Intermediate
+UX Design,Accessibility,Blog,Accessibility Guide for UX Designers [UX Collective],https://uxdesign.cc/accessibility-for-ux-designers-a-crash-course-in-accessible-design-15c8f64c7c93,Intermediate
+UX Design,UI vs UX,Video,UI vs UX Design: What’s the Difference? [YouTube],https://www.youtube.com/watch?v=TKEpQJmL3xs,Beginner
+UX Design,UI vs UX,Blog,UI vs UX: What’s the Difference? [CareerFoundry],https://careerfoundry.com/en/blog/ui-design/ui-vs-ux-design-the-difference/,Beginner
+UX Design,Design Thinking,Video,Design Thinking Process [YouTube],https://www.youtube.com/watch?v=a7sEoEvT8l8,Intermediate
+UX Design,Design Thinking,Blog,What is Design Thinking? [Interaction Design Foundation],https://www.interaction-design.org/literature/topics/design-thinking,Intermediate
+UX Design,User Journey Mapping,Video,User Journey Mapping Explained [YouTube],https://www.youtube.com/watch?v=btR6zSfzk7Y,Intermediate
+UX Design,User Journey Mapping,Blog,User Journey Mapping [UX Planet],https://uxplanet.org/how-to-create-journey-maps-in-ux-design-4ef62d249dd8,Intermediate
+UX Design,Information Architecture,Video,What is Information Architecture? [YouTube],https://www.youtube.com/watch?v=H_EMSmNf5h8,Intermediate
+UX Design,Information Architecture,Blog,Complete Guide to Information Architecture [CareerFoundry],https://careerfoundry.com/en/blog/ux-design/information-architecture-ux/,Intermediate
+UX Design,UX Tools,Video,Top UX Design Tools 2024 [YouTube],https://www.youtube.com/watch?v=j91E4L7zFew,Beginner
+UX Design,UX Tools,Blog,Best UX Tools for Designers [UXTools.co],https://uxtools.co/tools,Beginner
+UX Design,Portfolio Building,Video,How to Build a UX Design Portfolio [YouTube],https://www.youtube.com/watch?v=X8v7T3iVzFE,Intermediate
+UX Design,Portfolio Building,Blog,UX Design Portfolio Tips [Adobe Blog],https://xd.adobe.com/ideas/process/ui-design/how-to-create-ux-portfolio/,Intermediate
+UX Design,Case Studies,Video,UX Case Studies Explained [YouTube],https://www.youtube.com/watch?v=QnUDjHK6SL8,Advanced
+UX Design,Case Studies,Blog,UX Case Study Example [UX Collective],https://uxdesign.cc/ux-case-study-how-we-re-designed-our-website-using-user-research-9cf63c19e781,Advanced
+UX Design,Responsive Design,Video,Responsive UX Design [YouTube],https://www.youtube.com/watch?v=kjA1iGABc8Y,Intermediate
+UX Design,Responsive Design,Blog,Responsive Web Design Basics [Google Web Dev],https://web.dev/learn/design/responsive-design/,Intermediate
+UX Design,Human-Centered Design,Video,What is Human-Centered Design? [YouTube],https://www.youtube.com/watch?v=rrkrvAUbU9Y,Intermediate
+UX Design,Human-Centered Design,Blog,Human-Centered Design Guide [IDEO],https://www.designkit.org/human-centered-design,Intermediate
+Power BI,Introduction,Video,Power BI Full Course for Beginners [YouTube],https://www.youtube.com/watch?v=AGrl-H87pRU,Beginner
+Power BI,Introduction,Blog,What is Power BI? [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview,Beginner
+Power BI,Data Import,Video,Importing Data into Power BI [YouTube],https://www.youtube.com/watch?v=3J4Dg-yG7S8,Beginner
+Power BI,Data Import,Blog,Get Data in Power BI [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-quickstart-connect-to-data,Beginner
+Power BI,Data Transformation,Video,Power Query Basics in Power BI [YouTube],https://www.youtube.com/watch?v=1mO8lZl_T7w,Beginner
+Power BI,Data Transformation,Blog,Shape and Combine Data [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-shape-and-combine-data,Beginner
+Power BI,Data Modeling,Video,Data Modeling in Power BI [YouTube],https://www.youtube.com/watch?v=AH3U6nU5z9M,Intermediate
+Power BI,Data Modeling,Blog,Data Modeling Best Practices [Microsoft],https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-data-modeling,Intermediate
+Power BI,DAX,Video,DAX Basics in Power BI [YouTube],https://www.youtube.com/watch?v=tJc3ZlGs7q8,Intermediate
+Power BI,DAX,Blog,Introduction to DAX [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics,Intermediate
+Power BI,Visualization,Video,Creating Visualizations in Power BI [YouTube],https://www.youtube.com/watch?v=nkjegxT9xKk,Beginner
+Power BI,Visualization,Blog,Visualizations in Power BI [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a,Beginner
+Power BI,Advanced Visualization,Video,Advanced Visualizations in Power BI [YouTube],https://www.youtube.com/watch?v=3VddOZXS6WU,Intermediate
+Power BI,Advanced Visualization,Blog,Customize Visuals with Power BI [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-custom-visuals,Intermediate
+Power BI,Reports & Dashboards,Video,Build Reports and Dashboards [YouTube],https://www.youtube.com/watch?v=RtZpmF5D3dI,Intermediate
+Power BI,Reports & Dashboards,Blog,Create a Dashboard [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/create-reports/service-create-dashboard,Intermediate
+Power BI,Sharing Reports,Video,Sharing and Publishing Reports in Power BI [YouTube],https://www.youtube.com/watch?v=z4VHKXTjhZ0,Intermediate
+Power BI,Sharing Reports,Blog,Share and Collaborate on Power BI Reports [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards,Intermediate
+Power BI,Power BI Service,Video,Introduction to Power BI Service [YouTube],https://www.youtube.com/watch?v=z3uQ7cGJj4Y,Beginner
+Power BI,Power BI Service,Blog,Using Power BI Service [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/fundamentals/service-overview,Beginner
+Power BI,Embedded Analytics,Video,Power BI Embedded Analytics Tutorial [YouTube],https://www.youtube.com/watch?v=DrGRle3NbS8,Advanced
+Power BI,Embedded Analytics,Blog,Power BI Embedded Overview [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/developer/embedded/embedding-basic-concepts,Advanced
+Power BI,Row-Level Security,Video,Row-Level Security in Power BI [YouTube],https://www.youtube.com/watch?v=PiRWaYwIVlM,Advanced
+Power BI,Row-Level Security,Blog,Implement Row-Level Security [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-rls,Advanced
+Power BI,Real-time Data,Video,Real-time Dashboard in Power BI [YouTube],https://www.youtube.com/watch?v=1uAIN5-N8gk,Advanced
+Power BI,Real-time Data,Blog,Real-time Streaming Datasets [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/connect-data/service-real-time-streaming,Advanced
+Power BI,Paginated Reports,Video,Paginated Reports in Power BI [YouTube],https://www.youtube.com/watch?v=qxGn8pYtBXw,Advanced
+Power BI,Paginated Reports,Blog,Paginated Reports Overview [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-overview,Advanced
+Power BI,Power BI vs Tableau,Video,Power BI vs Tableau [YouTube],https://www.youtube.com/watch?v=cDGFgfbJXZ0,Intermediate
+Power BI,Power BI vs Tableau,Blog,Comparison between Power BI and Tableau [Simplilearn],https://www.simplilearn.com/power-bi-vs-tableau-article,Intermediate
+Power BI,AI Insights,Video,AI in Power BI [YouTube],https://www.youtube.com/watch?v=y07XHtcwPa8,Advanced
+Power BI,AI Insights,Blog,Use AI Insights in Power BI [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-ai-insights,Advanced
+Power BI,Power BI for Business,Video,Power BI for Business Analysis [YouTube],https://www.youtube.com/watch?v=3KtDH5G_A34,Beginner
+Power BI,Power BI for Business,Blog,How Businesses Use Power BI [Microsoft Docs],https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-business,Beginner
+Tableau,Introduction,Video,Tableau Full Course for Beginners [YouTube],https://www.youtube.com/watch?v=TdTqzJdf-b8,Beginner
+Tableau,Introduction,Blog,What is Tableau? [Tableau Official],https://www.tableau.com/learn/articles/what-is-tableau,Beginner
+Tableau,Getting Started,Video,Getting Started with Tableau [YouTube],https://www.youtube.com/watch?v=Pe0hZ1GmBz8,Beginner
+Tableau,Getting Started,Blog,Getting Started with Tableau [Official Guide],https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm,Beginner
+Tableau,Data Import,Video,Import Data in Tableau [YouTube],https://www.youtube.com/watch?v=SezWx-wiSj8,Beginner
+Tableau,Data Import,Blog,Connect to Data [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/examples_otherdatabases.htm,Beginner
+Tableau,Data Preparation,Video,Data Preparation in Tableau [YouTube],https://www.youtube.com/watch?v=WDrPq3NbS1A,Beginner
+Tableau,Data Preparation,Blog,Data Preparation Overview [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/data_preparing.htm,Beginner
+Tableau,Data Visualization,Video,Data Visualization with Tableau [YouTube],https://www.youtube.com/watch?v=0MgNg5bWHtU,Beginner
+Tableau,Data Visualization,Blog,Data Visualization Basics [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/buildexamples_charts.htm,Beginner
+Tableau,Dashboards,Video,Creating Dashboards in Tableau [YouTube],https://www.youtube.com/watch?v=1HzkwmoaJSA,Intermediate
+Tableau,Dashboards,Blog,Build Dashboards and Stories [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/dashboards.htm,Intermediate
+Tableau,Data Blending,Video,Data Blending and Joins [YouTube],https://www.youtube.com/watch?v=7-7zyo9xORw,Intermediate
+Tableau,Data Blending,Blog,Combine Data from Multiple Sources [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/multiple_connections.htm,Intermediate
+Tableau,Calculations,Video,Calculated Fields in Tableau [YouTube],https://www.youtube.com/watch?v=8K3opN0eZZ8,Intermediate
+Tableau,Calculations,Blog,Calculated Fields and Functions [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields.htm,Intermediate
+Tableau,Filters,Video,Filters in Tableau [YouTube],https://www.youtube.com/watch?v=sdQUJMEVN6M,Beginner
+Tableau,Filters,Blog,Types of Filters in Tableau [Tableau Blog],https://www.tableau.com/learn/articles/types-filters-tableau,Beginner
+Tableau,Maps,Video,Geographical Maps in Tableau [YouTube],https://www.youtube.com/watch?v=4gS6KyHRDas,Intermediate
+Tableau,Maps,Blog,Create Maps and Spatial Analysis [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/maps.htm,Intermediate
+Tableau,Advanced Visualizations,Video,Advanced Tableau Visualizations [YouTube],https://www.youtube.com/watch?v=5ZRMhXW1lg4,Advanced
+Tableau,Advanced Visualizations,Blog,Advanced Charts in Tableau [Official Blog],https://www.tableau.com/about/blog/advanced-charts,Advanced
+Tableau,Tableau Prep,Video,Introduction to Tableau Prep [YouTube],https://www.youtube.com/watch?v=VhZFYbK5tJU,Intermediate
+Tableau,Tableau Prep,Blog,Tableau Prep Basics [Official Docs],https://help.tableau.com/current/prep/en-us/prep_get_started.htm,Intermediate
+Tableau,Storytelling,Video,Data Storytelling in Tableau [YouTube],https://www.youtube.com/watch?v=4VRgZh9RvNw,Intermediate
+Tableau,Storytelling,Blog,Building Stories in Tableau [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/stories.htm,Intermediate
+Tableau,Publishing & Sharing,Video,Publishing Tableau Dashboards [YouTube],https://www.youtube.com/watch?v=7su1Ji4Vluw,Intermediate
+Tableau,Publishing & Sharing,Blog,Publishing Workbooks and Dashboards [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/publish_workbooks.htm,Intermediate
+Tableau,Security & Permissions,Video,Managing Tableau Permissions [YouTube],https://www.youtube.com/watch?v=k_pnacrTP2Q,Advanced
+Tableau,Security & Permissions,Blog,User Access and Permissions [Tableau Docs],https://help.tableau.com/current/server/en-us/security_permissions.htm,Advanced
+Tableau,Performance Optimization,Video,Optimize Tableau Dashboards [YouTube],https://www.youtube.com/watch?v=OVwOB1p5MN0,Advanced
+Tableau,Performance Optimization,Blog,Improving Dashboard Performance [Tableau Docs],https://help.tableau.com/current/pro/desktop/en-us/performance_recording.htm,Advanced
+Tableau,Tableau Online,Video,Introduction to Tableau Online [YouTube],https://www.youtube.com/watch?v=7nSUDV9sAdc,Beginner
+Tableau,Tableau Online,Blog,What is Tableau Online [Tableau Docs],https://help.tableau.com/current/online/en-us/to_get_started.htm,Beginner
+Tableau,Tableau vs Power BI,Video,Tableau vs Power BI [YouTube],https://www.youtube.com/watch?v=3CgW-yA4Bv8,Intermediate
+Tableau,Tableau vs Power BI,Blog,Power BI vs Tableau Comparison [Simplilearn],https://www.simplilearn.com/power-bi-vs-tableau-article,Intermediate
+Tableau,Extensions & API,Video,Tableau API and Extensions [YouTube],https://www.youtube.com/watch?v=wOfLTW1E58A,Advanced
+Tableau,Extensions & API,Blog,Tableau API Developer Guide [Tableau Docs],https://help.tableau.com/current/api/api.htm,Advanced
+Tableau,Tableau for Business,Video,Tableau for Business Intelligence [YouTube],https://www.youtube.com/watch?v=5v1QDE5h3wU,Beginner
+Tableau,Tableau for Business,Blog,Tableau Use Cases in Business [Official Blog],https://www.tableau.com/solutions/business-intelligence,Beginner
+Cooking,Introduction,Video,Cooking Basics for Beginners [YouTube],https://www.youtube.com/watch?v=PR_9G5xvN9o,Beginner
+Cooking,Introduction,Blog,Cooking 101: Cooking Basics for Beginners [Blog],https://www.budgetbytes.com/category/how-to/cooking-basics/,Beginner
+Cooking,Kitchen Essentials,Blog,Must-Have Kitchen Tools for Beginners [Blog],https://www.thekitchn.com/essential-kitchen-tools-22944085,Beginner
+Cooking,Kitchen Essentials,Video,Essential Kitchen Tools for Cooking [YouTube],https://www.youtube.com/watch?v=JP94-vB2MSo,Beginner
+Cooking,Knife Skills,Video,Knife Skills - Basic Cuts [YouTube],https://www.youtube.com/watch?v=COQ8fe4rrf8,Beginner
+Cooking,Knife Skills,Blog,Knife Skills You Need to Know [Serious Eats],https://www.seriouseats.com/knife-skills,Beginner
+Cooking,Safety and Hygiene,Video,Kitchen Safety and Hygiene Tips [YouTube],https://www.youtube.com/watch?v=5oH9Nr3bKfw,Beginner
+Cooking,Safety and Hygiene,Blog,Food Safety and Hygiene [Healthline],https://www.healthline.com/nutrition/food-safety-tips,Beginner
+Cooking,Vegetarian Recipes,Video,Easy Vegetarian Meals [YouTube],https://www.youtube.com/watch?v=El3IzFgsb8Q,Beginner
+Cooking,Vegetarian Recipes,Blog,Quick Vegetarian Recipes [BBC Good Food],https://www.bbcgoodfood.com/recipes/collection/vegetarian,Beginner
+Cooking,Indian Cuisine,Video,Indian Cooking Basics [YouTube],https://www.youtube.com/watch?v=OqCkZ9JYG1k,Intermediate
+Cooking,Indian Cuisine,Blog,Indian Recipes for Beginners [Dassana's Veg Recipes],https://www.vegrecipesofindia.com/recipes/indian/,Intermediate
+Cooking,Italian Cuisine,Video,How to Make Authentic Italian Pasta [YouTube],https://www.youtube.com/watch?v=cbZj4jD0xq8,Intermediate
+Cooking,Italian Cuisine,Blog,Classic Italian Recipes [Delish],https://www.delish.com/cooking/g1956/classic-italian-recipes/,Intermediate
+Cooking,Baking,Video,Baking Basics for Beginners [YouTube],https://www.youtube.com/watch?v=Sh06kxxzYC0,Beginner
+Cooking,Baking,Blog,Baking 101: Everything You Need to Know [Sally's Baking Addiction],https://sallysbakingaddiction.com/baking-basics/,Beginner
+Cooking,Bread Making,Video,How to Make Bread at Home [YouTube],https://www.youtube.com/watch?v=13Ah9ES2yTU,Intermediate
+Cooking,Bread Making,Blog,Step-by-Step Bread Making Guide [King Arthur Baking],https://www.kingarthurbaking.com/learn/guides/bread-baking,Intermediate
+Cooking,Desserts,Video,Easy Desserts for Beginners [YouTube],https://www.youtube.com/watch?v=p_jA6Mdx-VY,Beginner
+Cooking,Desserts,Blog,Quick Dessert Recipes [AllRecipes],https://www.allrecipes.com/recipes/79/desserts/,Beginner
+Cooking,Grilling,Video,Grilling Techniques for Beginners [YouTube],https://www.youtube.com/watch?v=xqU4ODz96eM,Intermediate
+Cooking,Grilling,Blog,Grilling Tips and Tricks [Weber],https://www.weber.com/US/en/blog/grilling-tips-and-tricks/weber-30957.html,Intermediate
+Cooking,Healthy Cooking,Video,Healthy Meal Prep Ideas [YouTube],https://www.youtube.com/watch?v=7M2wJQ5uQwE,Beginner
+Cooking,Healthy Cooking,Blog,Healthy Recipes and Tips [EatingWell],https://www.eatingwell.com/recipes/,Beginner
+Cooking,Meal Prep,Video,Meal Prep for the Week [YouTube],https://www.youtube.com/watch?v=WjXi5kqD-J4,Beginner
+Cooking,Meal Prep,Blog,Meal Prep 101: Beginner's Guide [The Kitchn],https://www.thekitchn.com/collection/meal-prep,Beginner
+Cooking,Soups and Stews,Video,Hearty Soups and Stews [YouTube],https://www.youtube.com/watch?v=pQrfjD91E3Q,Intermediate
+Cooking,Soups and Stews,Blog,Best Soup and Stew Recipes [Food Network],https://www.foodnetwork.com/topics/soup-and-stew,Intermediate
+Cooking,Advanced Techniques,Video,Advanced Cooking Techniques [YouTube],https://www.youtube.com/watch?v=uWlY9Z9Xt6A,Advanced
+Cooking,Advanced Techniques,Blog,Mastering Advanced Cooking [The Spruce Eats],https://www.thespruceeats.com/advanced-cooking-techniques-4178409,Advanced
+Cooking,World Cuisines,Video,Exploring World Cuisines [YouTube],https://www.youtube.com/watch?v=ZXApPhcJgKM,Intermediate
+Cooking,World Cuisines,Blog,World Cuisine Recipes [AllRecipes],https://www.allrecipes.com/recipes/86/world-cuisine/,Intermediate
+Cooking,Low Budget Meals,Video,Cheap Meals That Taste Amazing [YouTube],https://www.youtube.com/watch?v=I9ZwBhIR5wA,Beginner
+Cooking,Low Budget Meals,Blog,Easy Low-Budget Recipes [BBC Good Food],https://www.bbcgoodfood.com/recipes/collection/budget-recipes,Beginner
+Cooking,Kids Recipes,Video,Fun Cooking for Kids [YouTube],https://www.youtube.com/watch?v=Y8HzFvjKH_o,Beginner
+Cooking,Kids Recipes,Blog,Easy Recipes to Cook with Kids [Taste of Home],https://www.tasteofhome.com/collection/kids-cooking-recipes/,Beginner
+Cooking,Special Diets,Video,Vegan Cooking for Beginners [YouTube],https://www.youtube.com/watch?v=frZBh8CPv3c,Beginner
+Cooking,Special Diets,Blog,Gluten-Free Recipes [Serious Eats],https://www.seriouseats.com/gluten-free,Beginner
+Music,Introduction,Video,Music Theory for Beginners [YouTube],https://www.youtube.com/watch?v=V7wDoyvxJ5g,Beginner
+Music,Introduction,Blog,Music Theory Basics [HelloMusicTheory],https://hellomusictheory.com/learn/music-theory/,Beginner
+Music,Music Theory,Video,Music Theory Comprehensive Course [YouTube],https://www.youtube.com/watch?v=zn3FQ1SA5aA,Intermediate
+Music,Music Theory,Blog,Understanding Music Theory [Musicians Institute],https://www.mi.edu/in-the-know/music-theory-guide/,Intermediate
+Music,Instruments - Piano,Video,Piano Lessons for Beginners [YouTube],https://www.youtube.com/watch?v=vphWgqbF-AM,Beginner
+Music,Instruments - Piano,Blog,Learn Piano Online [Piano Dreamers],https://www.pianodreamers.com/learn-piano-online/,Beginner
+Music,Instruments - Guitar,Video,Guitar Lessons for Beginners [YouTube],https://www.youtube.com/watch?v=2U4U5BTBtRE,Beginner
+Music,Instruments - Guitar,Blog,Learn to Play Guitar [Justin Guitar],https://www.justinguitar.com/,Beginner
+Music,Instruments - Violin,Video,Violin Lessons for Beginners [YouTube],https://www.youtube.com/watch?v=K6V6JpSMeuk,Beginner
+Music,Instruments - Violin,Blog,How to Learn Violin [TakeLessons],https://takelessons.com/blog/how-to-learn-violin-z08,Beginner
+Music,Composition,Video,Songwriting for Beginners [YouTube],https://www.youtube.com/watch?v=YxTkvuxoQJg,Beginner
+Music,Composition,Blog,How to Write Songs [SongFancy],https://songfancy.com/ultimate-songwriting-guide/,Beginner
+Music,Music Production,Video,Music Production Basics [YouTube],https://www.youtube.com/watch?v=5Uj3r0TRw1g,Beginner
+Music,Music Production,Blog,Music Production Guide [iZotope],https://www.izotope.com/en/learn/music-production.html,Beginner
+Music,Sound Engineering,Video,Sound Engineering Tutorial [YouTube],https://www.youtube.com/watch?v=AXQ5p4uVZ9c,Intermediate
+Music,Sound Engineering,Blog,Introduction to Sound Engineering [Sound on Sound],https://www.soundonsound.com/techniques/beginners-guide-audio-engineering,Intermediate
+Music,Music Business,Video,Music Business 101 [YouTube],https://www.youtube.com/watch?v=ctNk6mAQ7-w,Intermediate
+Music,Music Business,Blog,Music Business Essentials [Berklee Online],https://online.berklee.edu/courses/music-business-101,Intermediate
+Music,Advanced Theory,Video,Advanced Music Theory [YouTube],https://www.youtube.com/watch?v=4zFz6Pa5p4g,Advanced
+Music,Advanced Theory,Blog,Advanced Music Theory Lessons [Dolmetsch Online],http://www.dolmetsch.com/theoryintro.htm,Advanced
+Music,Instruments - Drums,Video,Drum Lessons for Beginners [YouTube],https://www.youtube.com/watch?v=DW5mDNfjvIs,Beginner
+Music,Instruments - Drums,Blog,Learn Drums Online [Drumeo],https://www.drumeo.com/,Beginner
+Music,Vocal Training,Video,Vocal Warm-Ups and Training [YouTube],https://www.youtube.com/watch?v=dyzOeU-f_2I,Beginner
+Music,Vocal Training,Blog,Learn Singing and Vocal Techniques [School of Rock],https://www.schoolofrock.com/resources/lessons/vocals,Beginner
+Music,Music Genres - Jazz,Video,Learn Jazz Music Basics [YouTube],https://www.youtube.com/watch?v=F9d2zTfGZtU,Intermediate
+Music,Music Genres - Jazz,Blog,Beginner's Guide to Jazz [JazzAdvice],https://www.jazzadvice.com/beginners-guide-to-jazz/,Intermediate
+Music,Music Genres - Classical,Video,Classical Music Guide [YouTube],https://www.youtube.com/watch?v=73ZDvCbxhns,Beginner
+Music,Music Genres - Classical,Blog,Introduction to Classical Music [Classic FM],https://www.classicfm.com/discover-music/periods-genres/classical/,Beginner
+Music,Music Genres - Pop,Video,How to Make Pop Music [YouTube],https://www.youtube.com/watch?v=sRsLz2g-1ns,Intermediate
+Music,Music Genres - Pop,Blog,Pop Music Songwriting [Music Industry How To],https://www.musicindustryhowto.com/how-to-write-a-pop-song/,Intermediate
+Music,Music Technology - DAWs,Video,How to Use FL Studio [YouTube],https://www.youtube.com/watch?v=Rmz_rJZzjj8,Intermediate
+Music,Music Technology - DAWs,Blog,Getting Started with DAWs [LANDR],https://blog.landr.com/best-daws/,Intermediate
+Music,Music Software - Ableton,Video,Ableton Live for Beginners [YouTube],https://www.youtube.com/watch?v=ChQoFcLBZQ8,Intermediate
+Music,Music Software - Ableton,Blog,Ableton Live Basics [Ableton],https://www.ableton.com/en/pages/education/education-resources/,Intermediate
+Music,Music Therapy,Video,Music Therapy Explained [YouTube],https://www.youtube.com/watch?v=UsLpjznj-6w,Beginner
+Music,Music Therapy,Blog,How Music Therapy Works [Verywell Mind],https://www.verywellmind.com/music-therapy-4178082,Beginner
+Music,Music Careers,Video,Careers in Music Industry [YouTube],https://www.youtube.com/watch?v=FQaE5zvY4xk,Intermediate
+Music,Music Careers,Blog,Music Career Paths [Berklee College of Music],https://online.berklee.edu/takenote/career-paths-in-music/,Intermediate

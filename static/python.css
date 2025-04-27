@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4169e1;
+    text-shadow: 1px 1px 2px lightblue;
+  }
+  
+  .auth-buttons .btn {
+    margin-left: 10px;
+    padding: 10px 15px;
+    background: #789fff;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  h2, h3 {
+    margin-left: 20px;
+  }
+  
+  .instructors, .content-type, .course-structure {
+    margin: 20px;
+  }
+  
+  .avatars {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ccc;
+  }
+  
+  .course-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .course-item {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .play-button {
+    background: white;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
