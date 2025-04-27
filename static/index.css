@@ -1,76 +1,76 @@
 body {
-    font-family: 'Segoe UI', sans-serif;
-    margin: 0;
-    padding: 0;
-    background: #fff;
-  }
-  
-  header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 2rem;
-    background-color: #ffffff;
-  }
-  
-  .logo {
-    font-size: 2rem;
-    font-weight: bold;
-    color: #4a90e2;
-    text-shadow: 1px 1px 2px #ccc;
-  }
-  
-  .auth-buttons .btn {
-    background: #7f9cf5;
-    color: white;
-    border: none;
-    padding: 0.5rem 1rem;
-    margin-left: 0.5rem;
-    border-radius: 20px;
-    cursor: pointer;
-    font-size: 1rem;
-  }
-  
-  .landing-main {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 2rem 5rem;
-  }
-  
-  .left {
-    flex: 1;
-  }
-  
-  .right {
-    flex: 1;
-    text-align: right;
-  }
-  
-  .heading {
-    font-size: 2.5rem;
-    font-weight: bold;
-    margin-bottom: 1rem;
-    line-height: 1.2;
-  }
-  
-  .subheading {
-    font-size: 1.2rem;
-    color: #555;
-    margin-bottom: 2rem;
-  }
-  
-  .get-started-btn {
-    background: #7f9cf5;
-    color: white;
-    text-decoration: none;
-    padding: 0.75rem 2rem;
-    border-radius: 30px;
-    font-size: 1.2rem;
-  }
-  
-  .landing-img {
-    width: 90%;
-    max-width: 500px;
-  }
+  background-color: white;
+}
 
+/* Header styles */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+}
+
+/* Logo */
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  color: #6495ED;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Buttons in header */
+.header-buttons button {
+  background-color: #749BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 15px;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Main content */
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+
+/* Left text section */
+.text-content {
+  max-width: 500px;
+}
+
+/* Heading */
+.text-content h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Paragraph */
+.text-content p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+/* Get Started Button */
+.get-started {
+  background-color: #749BFF;
+  color: white;
+  padding: 15px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+/* Illustration */
+.illustration img {
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+}
