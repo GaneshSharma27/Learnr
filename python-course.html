@@ -1,41 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Learnr - Python Course</title>
-  <link rel="stylesheet" href="static/course-detail.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Learnr - Python Course</title>
+    <link rel="stylesheet" href="static/course-detail.css">
 </head>
 <body>
-  <header>
-    <h1 class="logo">Learnr</h1>
-    <nav>
-      <button>Sign up</button>
-      <button>Login</button>
-    </nav>
-  </header>
+    <header>
+      <div class="logo">Learnr</div>
+      <div class="header-buttons">
+        <button>Sign up</button>
+        <button>Login</button>
+      </div>
+    </header>
 
-  <main class="course-structure">
-    <h2>Python</h2>
-    <p><strong>Instructors:</strong> Jesse Lyu, Harris Ali, Andrew Nyu...</p>
-    <div class="content-types">
-      <span>🎥 Videos</span>
-      <span>📄 Blogs</span>
-      <span>📓 Papers</span>
-      <span>📜 Researches</span>
-    </div>
+    <main>
+        <h1 class="course-title">Python</h1>
 
-    <div class="course-list">
-      <div class="course-item">
-        <a href="video.html">Python Tutorial Fundamentals (Video)</a>
-      </div>
-      <div class="course-item">
-        Learn Python - FreeCodeCamp (Blog)
-      </div>
-      <div class="course-item">
-        Python Fundamental One Shot (Video)
-      </div>
-    </div>
-  </main>
+        <section class="instructors">
+            <h2>Instructors</h2>
+            <div class="instructor-list">
+                <img src="static/images/andrew.png" alt="Instructor">
+                <img src="static/images/harris.png" alt="Instructor">
+                <img src="static/images/jesse.png" alt="Instructor">
+                <img src="static/images/jessica.png" alt="Instructor">
+                <img src="static/images/paul.png" alt="Instructor">
+                <span>Jesse Lyu, Harris Ali, Andrew Nyu, Paul Graham, Jessica Li...</span>
+            </div>
+        </section>
+
+        <section class="content-type">
+            <h2>Content type</h2>
+            <div class="content-icons">
+                <div>🎥 Videos</div>
+                <div>📑 Blogs</div>
+                <div>📄 Papers</div>
+                <div>🔍 Researches</div>
+            </div>
+        </section>
+
+        <section class="course-structure">
+            <h2>Course structure</h2>
+            <div class="course-item">
+                <div class="item-text">
+                    <strong>Introduction</strong>
+                    <p>Python Tutorial Fundamentals <span>Video</span></p>
+                </div>
+                <div class="play-icon">▶️</div>
+            </div>
+
+            <div class="course-item">
+                <div class="item-text">
+                    <strong>Introduction</strong>
+                    <p>Learn Python - FreeCodeCamp <span>Blog</span></p>
+                </div>
+                <div class="play-icon">▶️</div>
+            </div>
+
+            <div class="course-item">
+                <div class="item-text">
+                    <strong>Introduction</strong>
+                    <p>Python Fundamental One Shot <span>Video</span></p>
+                </div>
+                <div class="play-icon">▶️</div>
+            </div>
+
+            <div class="course-item">
+                <div class="item-text">
+                    <strong>Variables & Data Types</strong>
+                    <p>Learn Data Types in Python <span>Video</span></p>
+                </div>
+                <div class="play-icon">▶️</div>
+            </div>
+        </section>
+    </main>
 </body>
 </html>
-
